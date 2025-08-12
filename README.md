@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xzeno15150
-- 📚 I'm currently in 2nd year of DUT Informatique in Clermont-Ferrand
-- 👀 I’m interested in developement of web and desktop applications.
-- 🌱 I’m currently learning some NodeJS for a bot on my own
+- 📚 Web developer, guitarist and game developer on my free time
+- 👀 I want to eat acknowledge.
+- 🌱 Currently working on [Momo Buddy project](https://github.com/Momo-Buddy), an app for ADHds... For me so
 
 <!---
 Xzeno15150/Xzeno15150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
